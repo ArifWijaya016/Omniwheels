@@ -1,0 +1,10 @@
+Run for windows :
+
+set FLASK_APP=bismillah.py 
+flask run --host=0.0.0.0
+
+
+Run for linux :
+
+export FLASK_APP=bismillah.py
+flask run --host=0.0.0.0
